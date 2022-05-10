@@ -1,7 +1,15 @@
 # Product Management
 
-##H2 header
-###H3 header
+[TOC]
+
+#### Disabled options
+
+- TeX (Based on KaTeX);
+- Emoji;
+- Task lists;
+- HTML tags decode;
+- Flowchart and Sequence Diagram;
+
 
 ## _1. Contents_
 
