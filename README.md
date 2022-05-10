@@ -1,6 +1,6 @@
 # Product Management
 
-#Heading 1 link [Heading link](https://github.com/itlsamuel/Product_Management/edit/main/README.md "Heading link")
+##H2 header
 
 ## _1. Contents_
 
@@ -21,3 +21,5 @@ Product Vision Canvas
 
 Product Fit Template
 > https://miro.com/templates/product-market-fit-canvas/
+
+H2 Header (Underline)
