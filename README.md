@@ -18,11 +18,12 @@
   - [logchimp](#logchimp)
 - [Miro](#miro)
 
-## 1. Ferramentas
+## Ferramentas
 
 ### OneNote
 
 > Anotações eficientes. Integra-se facilmente com fluxos de trabalho baseados em equipe. 
+> https://onenote.com
 
 ### Bear
 
@@ -72,7 +73,7 @@
 
 > O LogChimp permite que você acompanhe o feedback de seus clientes para criar produtos melhores.
 
-## 2. Miro
+## Miro
 
 RoadMap Template
 > https://miro.com/templates/roadmap/
