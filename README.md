@@ -23,7 +23,6 @@
 ### OneNote
 
 > Anotações eficientes. Integra-se facilmente com fluxos de trabalho baseados em equipe. 
-
 https://onenote.com
 
 ### Bear
