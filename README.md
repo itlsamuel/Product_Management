@@ -5,6 +5,9 @@
 RoadMap Template
 > https://miro.com/templates/roadmap/
 
+RoadMap Strategy
+> https://miro.com/miroverse/product-strategy-decider-workshop/
+
 Product Vision Canvas
 > https://miro.com/miroverse/product-vision-canvas/
 
