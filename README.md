@@ -1,9 +1,8 @@
 # Product Management
 
-[TOC]
+#H1 1. Contents
+##H2 2. Templates_
 
-#H1 header
-##H2 header
 
 ## _1. Contents_
 
