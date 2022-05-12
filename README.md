@@ -17,10 +17,10 @@
   - [productboard](#productboard)
   - [logchimp](#logchimp)
 - [Miro](#miro)
-  - [RoadMap Template](#roadMaptemplate)
-  - [RoadMap Strategy](#roadmapstrategy)
-  - [Product Vision Canvas](#productvision canvas)
-  - [Product Fit Template](#productfittemplate)
+  - [RoadMap_Template](#roadMaptemplate)
+  - [RoadMap_Strategy](#roadmapstrategy)
+  - [Product_Vision_Canvas](#productvisioncanvas)
+  - [Product_Fit_Template](#productfittemplate)
 
 ## Ferramentas
 
@@ -104,22 +104,22 @@ https://logchimp.codecarrot.net
 
 ## Miro
 
-### RoadMap Template
+### RoadMap_Template
 > Roteiro e cronograma de produto. Comunica a visão do produto e alinha ao planejamento
 
 https://miro.com/templates/roadmap/
 
-### RoadMap Strategy
+### RoadMap_Strategy
 > Plano estratégico para alcançar um conjunto de metas. Etapas e marcos significativos que a equipe precisará concluir para alcançar o resultado desejado.
 
 https://miro.com/miroverse/product-strategy-decider-workshop/
 
-### Product Vision Canvas
+### Product_Vision_Canvas
 >  Workshop para detalhar novos recursos, alinhar novas ideias de produtos, definir uma visão para um produto existente ou realizar um exercício de previsão.
 
 https://miro.com/miroverse/product-vision-canvas/
 
-Product Fit Template
+Product_Fit_Template
 > Verifica como o produto atende às necessidades do usuário e do mercado. Pode pegar algo de uma ideia bruta e transformá-la em uma oportunidade de negócio.
 
 https://miro.com/templates/product-market-fit-canvas/
