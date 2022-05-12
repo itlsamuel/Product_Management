@@ -17,10 +17,10 @@
   - [productboard](#productboard)
   - [logchimp](#logchimp)
 - [Miro](#miro)
-  - [RoadMap Template](#roadMap template)
-  - [RoadMap Strategy](#roadmap strategy)
-  - [Product Vision Canvas](#product vision canvas)
-  - [Product Fit Template](#product fit template)
+  - [RoadMap Template](#roadMaptemplate)
+  - [RoadMap Strategy](#roadmapstrategy)
+  - [Product Vision Canvas](#productvision canvas)
+  - [Product Fit Template](#productfittemplate)
 
 ## Ferramentas
 
