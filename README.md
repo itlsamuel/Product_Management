@@ -17,15 +17,10 @@
   - [productboard](#productboard)
   - [logchimp](#logchimp)
 - [Miro](#miro)
-  - [RoadMap Template](#roadMaptemplate)
-  - [Bear](#bear)
-  - [Trello](#trello)
-  - [Taiga](#taiga)
-  - [To-Do](#to-do)
-  - [Notion](#notion)
-  - [Balsamiq](#balsamiq)
-  - [Sketch](#sketch)
-  - [Figma](#figma)
+  - [RoadMap Template](#roadMap template)
+  - [RoadMap Strategy](#roadmap strategy)
+  - [Product Vision Canvas](#product vision canvas)
+  - [Product Fit Template](#product fit template)
 
 ## Ferramentas
 
