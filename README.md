@@ -100,14 +100,26 @@ https://logchimp.codecarrot.net
 
 ## Miro
 
-RoadMap Template
-> https://miro.com/templates/roadmap/
+### RoadMap Template
+> Roteiro e cronograma de produto. Comunica a visão do produto e alinha ao planejamento
 
-RoadMap Strategy
-> https://miro.com/miroverse/product-strategy-decider-workshop/
+https://miro.com/templates/roadmap/
 
-Product Vision Canvas
-> https://miro.com/miroverse/product-vision-canvas/
+### RoadMap Strategy
+> Plano estratégico para alcançar um conjunto de metas. Etapas e marcos significativos que a equipe precisará concluir para alcançar o resultado desejado.
+
+https://miro.com/miroverse/product-strategy-decider-workshop/
+
+### Product Vision Canvas
+>  Workshop para detalhar novos recursos, alinhar novas ideias de produtos, definir uma visão para um produto existente ou realizar um exercício de previsão.
+
+https://miro.com/miroverse/product-vision-canvas/
 
 Product Fit Template
-> https://miro.com/templates/product-market-fit-canvas/
+> Verifica como o produto atende às necessidades do usuário e do mercado. Pode pegar algo de uma ideia bruta e transformá-la em uma oportunidade de negócio.
+
+https://miro.com/templates/product-market-fit-canvas/
+
+## RoadMap
+
+
