@@ -119,7 +119,7 @@ https://miro.com/miroverse/product-strategy-decider-workshop/
 
 https://miro.com/miroverse/product-vision-canvas/
 
-Product_Fit_Template
+### Product_Fit_Template
 > Verifica como o produto atende às necessidades do usuário e do mercado. Pode pegar algo de uma ideia bruta e transformá-la em uma oportunidade de negócio.
 
 https://miro.com/templates/product-market-fit-canvas/
