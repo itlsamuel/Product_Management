@@ -5,6 +5,7 @@
 - [Ferramentas](#ferramentas)
   - [OneNote](#onenote)
   - [Bear](#bear)
+  - [Jira](#jira)
   - [Trello](#trello)
   - [Taiga](#taiga)
   - [To-Do](#to-do)
@@ -35,6 +36,12 @@ https://onenote.com
 > Anotações no formato Markdown, com recursos organizacionais baseados em tags.
 
 https://bear.app/
+
+### Jira
+
+> Ferramenta de gestão ágil de projetos que oferece suporte a qualquer metodologia ágil, como Scrum, Kanban ou qualquer outra.
+
+https://trello.com/
 
 ### Trello
 
