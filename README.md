@@ -41,7 +41,7 @@ https://bear.app/
 
 > Ferramenta de gestão ágil de projetos que oferece suporte a qualquer metodologia ágil, como Scrum, Kanban ou qualquer outra.
 
-https://trello.com/
+https://www.atlassian.com/software/jira
 
 ### Trello
 
