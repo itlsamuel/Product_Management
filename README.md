@@ -22,6 +22,9 @@
   - [RoadMap_Strategy](#roadmap_strategy)
   - [Product_Vision_Canvas](#product_vision_canvas)
   - [Product_Fit_Template](#product_fit_template)
+- [No-Code](#no-code)
+  - [Glide](#glide)
+
 
 ## Ferramentas
 
@@ -131,6 +134,12 @@ https://miro.com/miroverse/product-vision-canvas/
 
 https://miro.com/templates/product-market-fit-canvas/
 
-## RoadMap
+## No-Code
+
+### Glide
+
+https://www.glideapps.com/
+
+
 
 
